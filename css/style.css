@@ -26,8 +26,14 @@
     align-items: center;
     justify-content: space-between;
 }
-
 .caixa-imagem {
+    width: 600px;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 200px;
+}
+
+.caixa-links {
     width: 600px;
     display: flex;
     justify-content: flex-end;
