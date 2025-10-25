@@ -17,7 +17,6 @@
     background-image: url("img/fundo.jpg");
     background-position: center;
     background-size: cover;
-    overflow: hidden;
 }
 
 .caixa-conteudo {
