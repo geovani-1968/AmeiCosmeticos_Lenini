@@ -38,4 +38,5 @@
     display: flex;
     justify-content: flex-end;
     margin-top: 200px;
+    justify-content: space-between;
 }
